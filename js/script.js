@@ -33,7 +33,7 @@ let und;  //   undefined  pustaja korobka. peremennaja
 // const result = confirm("are you here?");
 // console.log(result);
 
-// const answer = +prompt("you have 18?", "net mne 35");  // !  +  <<< i zajdet NUMBER vmesto string +prompt . 
+//const answer = +prompt("you have 18?", "net mne 35");  // !  +  <<< i zajdet NUMBER vmesto string +prompt . 
 // console.log(answer);
 // console.log(typeof(answer));  // ! posmotretj 4to tam za tip !  ETO STROKI VSEGDA !! 
 // console.log(answer + 5); // = 

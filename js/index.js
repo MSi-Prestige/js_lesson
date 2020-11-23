@@ -1,4 +1,6 @@
 "use strict";
+// ! LESSON 2
+
 let numberOfFilms = +prompt("Сколько фильмов ты посмотрел?", "");
 
 let personalMovieDB = {

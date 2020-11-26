@@ -15,7 +15,7 @@ const personGirl = {
     heightGirl: 170,
     loveGirl: "yes"
 };
-                                            //TODO: ({}, person)  --> klonirovanie objekta persov v novij.  
+                                            //TODO: ({}, person)  --> klonirovanie objekta person v novij.  
 //--------------------------------------------------
 
 console.log(person);
